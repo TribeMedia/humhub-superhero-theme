@@ -25,7 +25,6 @@ h4 {}
   color: #4cd9c0 !important;
 }
 #topbar-first {
-  background-color: #7191a8;
   color: white;
 }
 #topbar-first a {
@@ -34,9 +33,7 @@ h4 {}
 #topbar-first .caret {
   border-top-color: #bebebe;
 }
-#topbar-first .btn-group > a {
-  background-color: #819db2;
-}
+#topbar-first .btn-group > a {}
 #topbar-first .media-list a {
   color: #555555;
 }
