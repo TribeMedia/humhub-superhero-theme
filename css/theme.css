@@ -235,9 +235,7 @@ h4 {}
 .panel .panel-body {
   font-size: 13px;
 }
-.panel .panel-body p {
-  color: #555555;
-}
+.panel .panel-body p {}
 .panel .statistics .entry {
   margin-left: 20px;
   font-size: 12px;
