@@ -782,7 +782,7 @@ a.list-group-item.active:focus {
   z-index: 2;
   color: #555555;
   background-color: #f7f7f7;
-  border-left: 3px solid #4cd9c0 !important;
+  border-left: 3px solid #df691a !important;
 }
 /*.list-group-item:first-child {
   border-top: none;
