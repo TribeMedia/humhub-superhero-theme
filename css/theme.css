@@ -34,18 +34,10 @@ h4 {}
   border-top-color: #bebebe;
 }
 #topbar-first .btn-group > a {}
-#topbar-first .media-list a {
-  color: #555555;
-}
-#topbar-first .media-list li {
-  color: #555555;
-}
-#topbar-first .media-list li i.accepted {
-  color: #4cd9c0 !important;
-}
-#topbar-first .media-list li i.declined {
-  color: #ff8989 !important;
-}
+#topbar-first .media-list a {}
+#topbar-first .media-list li {}
+#topbar-first .media-list li i.accepted {}
+#topbar-first .media-list li i.declined {}
 #topbar-first .media-list li.placeholder {
   border-bottom: none;
 }
@@ -55,9 +47,7 @@ h4 {}
 #topbar-first .account .user-title {
   text-align: right;
 }
-#topbar-first .account .user-title span {
-  color: #d7d7d7;
-}
+#topbar-first .account .user-title span {}
 #topbar-first .dropdown.account > a,
 #topbar-first .dropdown.account.open > a,
 #topbar-first .dropdown.account > a:hover,
