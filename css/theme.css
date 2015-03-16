@@ -1,3 +1,6 @@
+/* Import Fonts */
+@import url(http://fonts.googleapis.com/css?family=Coustard|Open+Sans);
+
 /*@colorPrimary3: #526e82;*/
 body {}
 body a,
@@ -28,6 +31,7 @@ h4 {}
   color: white;
 }
 #topbar-first a {
+  font-family: 'Coustard', serif;
   color: white;
 }
 #topbar-first .caret {
