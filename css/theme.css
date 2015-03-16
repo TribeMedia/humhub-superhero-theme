@@ -301,8 +301,8 @@ h4 {}
 .img-rounded {
   -webkit-border-radius: 20px;
   -moz-border-radius: 20px;
-    border-radius: 20px;
-  border: 2px ridge;
+  border-radius: 20px;
+  border: 2px inset #df691a;
 }
 .nav-pills .dropdown-menu,
 .nav-tabs .dropdown-menu,
