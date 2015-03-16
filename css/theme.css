@@ -61,9 +61,7 @@ h4 {}
 #topbar-first .dropdown.account > a,
 #topbar-first .dropdown.account.open > a,
 #topbar-first .dropdown.account > a:hover,
-#topbar-first .dropdown.account.open > a:hover {
-  background-color: #7191a8;
-}
+#topbar-first .dropdown.account.open > a:hover {}
 #topbar-second {
   background-color: #ffffff;
   background-image: none;
