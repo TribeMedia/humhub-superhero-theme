@@ -121,7 +121,9 @@ h4 {}
   font-weight: 400;
 }
 .media-list li {}
-.media-list li a {}
+.media-list li a { 
+  text-decoration: none;
+}
 .media-list li.new {
   border-left: 3px solid #ebf6f3;
   background-color: #ebf6f3;
