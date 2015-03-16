@@ -120,11 +120,6 @@ h4 {}
   margin: 0;
   font-weight: 400;
 }
-.img-space {
-  position: absolute;
-  top: 25px;
-  left: 25px;
-}
 .media-list li {}
 .media-list li a {}
 .media-list li.new {
@@ -304,9 +299,9 @@ h4 {}
   font-size: 11px;
 }
 .img-rounded {
-  -webkit-border-radius: 3px;
-  -moz-border-radius: 3px;
-  border-radius: 3px;
+  -webkit-border-radius: 20px;
+  -moz-border-radius: 20px;
+  border-radius: 20px;
 }
 .nav-pills .dropdown-menu,
 .nav-tabs .dropdown-menu,
