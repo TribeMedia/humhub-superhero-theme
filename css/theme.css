@@ -522,89 +522,71 @@ h4 {}
   font-size: 12px;
 }
 .btn-default {
-  background: #ededed;
   color: #7a7a7a !important;
 }
 .btn-default:hover,
 .btn-default:focus {
-  background: #e8e8e8;
   text-decoration: none;
   color: #7a7a7a;
 }
 .btn-default:active,
 .btn-default.active {
   outline: 0;
-  background: #e0e0e0;
 }
 .btn-primary {
-  background: #7191a8;
   color: white !important;
 }
 .btn-primary:hover,
 .btn-primary:focus {
-  background: #61859e;
   text-decoration: none;
 }
 .btn-primary:active,
 .btn-primary.active {
   outline: 0;
-  background: #61859e;
 }
 .btn-info {
-  background: #4cd9c0;
   color: white !important;
 }
 .btn-info:hover,
 .btn-info:focus {
-  background: #37d5b9 !important;
   text-decoration: none;
 }
 .btn-info:active,
 .btn-info.active {
   outline: 0;
-  background: #37d5b9;
 }
 .btn-danger {
-  background: #ff8989;
   color: white !important;
 }
 .btn-danger:hover,
 .btn-danger:focus {
-  background: #ff6f6f;
   text-decoration: none;
 }
 .btn-danger:active,
 .btn-danger.active {
   outline: 0;
-  background: #ff6f6f;
 }
 .btn-success {
-  background: #4cd9c0;
   color: white !important;
 }
 .btn-success:hover,
 .btn-success:focus {
-  background: #37d5b9;
   text-decoration: none;
 }
 .btn-success:active,
 .btn-success.active {
   outline: 0;
-  background: #37d5b9;
 }
 .btn-warning {
-  background: #fdd198;
   color: white !important;
 }
 .btn-warning:hover,
 .btn-warning:focus {
-  background: #fdcd8e;
   text-decoration: none;
 }
 .btn-warning:active,
 .btn-warning.active {
   outline: 0;
-  background: #fdcd8e;
 }
 /*.btn-group {
   border: 2px solid @colorPrimary3;
