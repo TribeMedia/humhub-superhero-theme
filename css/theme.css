@@ -120,14 +120,8 @@ h4 {}
   margin: 0;
   font-weight: 400;
 }
-.media-list li {
-  border-bottom: 1px solid #eee;
-  border-left: 3px solid white;
-  font-size: 12px;
-}
-.media-list li a {
-  color: #555555;
-}
+.media-list li {}
+.media-list li a {}
 .media-list li.new {
   border-left: 3px solid #ebf6f3;
   background-color: #ebf6f3;
