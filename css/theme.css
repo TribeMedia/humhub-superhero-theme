@@ -286,9 +286,6 @@ h4 {}
   border-radius: 3px;
 }
 .well {
-  border: none;
-  box-shadow: none;
-  background-color: #ededed;
   margin-bottom: 1px;
 }
 .well hr {
