@@ -120,6 +120,11 @@ h4 {}
   margin: 0;
   font-weight: 400;
 }
+.img-space {
+  position: absolute;
+  top: 25px;
+  left: 25px;
+}
 .media-list li {}
 .media-list li a {}
 .media-list li.new {
