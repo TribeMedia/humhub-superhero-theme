@@ -1,3 +1,7 @@
+a:hover{
+  text-decoration: none;
+}
+
 .dropdown-menu {
   border: 1px solid #2b3e50;
   border-bottom-left-radius: 3px;
