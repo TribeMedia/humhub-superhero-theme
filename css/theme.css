@@ -2,6 +2,11 @@ a:hover{
   text-decoration: none;
 }
 
+.atwho-emoj{
+  border-radius: 20px;
+  background-color: #fff;  
+}
+
 .dropdown-menu {
   border: 1px solid #2b3e50;
   border-bottom-left-radius: 3px;
