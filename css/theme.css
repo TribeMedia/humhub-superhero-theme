@@ -16,7 +16,6 @@
   padding: 6px 13px 0px 13px;
   text-decoration: none;
   text-shadow: none;
-  font-weight: 600;
   font-size: 10px;
   text-transform: uppercase;
   text-align: center;
@@ -46,7 +45,7 @@
 #topbar-second .nav > li > a:hover,
 #topbar-second .nav .open > a,
 #topbar-second .nav > li.active {
-  border-bottom: 3px solid #4cd9c0;
+  border-bottom: 3px solid #df691a;
 }
 #topbar-second .nav > li.active > a:hover {
   border-bottom: none;
