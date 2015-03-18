@@ -5,6 +5,8 @@ a:hover{
 .atwho-emoji{
   border-radius: 20px;
   background-color: #fff;  
+  padding: 1px;
+  box-shadow: 0px 0px 2px 1px #ebebeb;
 }
 
 .dropdown-menu {
