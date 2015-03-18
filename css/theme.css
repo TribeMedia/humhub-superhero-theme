@@ -10,6 +10,13 @@ a:hover {
 .fa{
   color: #F59C61;
 }
+.fc-header-title h2 {
+  color: #F59C61;
+}
+fc-today{
+  color: #F59C61;
+  font-weight: bold;
+}
 .dropdown-menu {
   border: 1px solid #2b3e50;
   border-bottom-left-radius: 3px;
