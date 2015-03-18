@@ -1,14 +1,15 @@
-a:hover{
+a:hover {
   text-decoration: none;
 }
-
-.atwho-emoji{
+.atwho-emoji {
   border-radius: 20px;
-  background-color: #fff;  
+  background-color: #fff;
   padding: 1px;
   box-shadow: 0px 0px 2px 1px #ebebeb;
 }
-
+.fa{
+  color: #F59C61;
+}
 .dropdown-menu {
   border: 1px solid #2b3e50;
   border-bottom-left-radius: 3px;
@@ -16,7 +17,6 @@ a:hover{
   padding: 5px;
   box-shadow: 10px 10px 10px #2b3e50;
 }
-
 #topbar-second {
   background-image: none;
   -webkit-box-shadow: 0 1px 10px rgba(0, 0, 0, 0.1);
@@ -67,7 +67,6 @@ a:hover{
   margin: 0;
   font-weight: 400;
 }
-
 .wall-entry .media .img-space {
   position: absolute;
   top: 40px;
